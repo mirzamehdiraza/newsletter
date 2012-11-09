@@ -1,0 +1,4 @@
+{
+	"sign_up_url": "http://www.hostcommittee.com/"
+	
+}
